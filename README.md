@@ -11,10 +11,10 @@ The project follows the full Software Testing Life Cycle (STLC), including **Req
 | Name | Role |
 |------|------|
 | **Deepesh Katudia** | QA Manager |
-| **Parth Desai** | Team Member |
-| **Ayush Gehlot** | Team Member |
-| **Swatej Mella** | Team Member |
-| **Kiran Rathod** | Team Member |
+| **Parth Desai** | Business Analyst |
+| **Ayush Gehlot** | QA Analyst |
+| **Swatej Mella** | Software tester |
+| **Kiran Rathod** | Software Tester |
 
 ---
 
